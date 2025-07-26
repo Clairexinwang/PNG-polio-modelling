@@ -16,7 +16,7 @@ The aim is to generate policy-relevant insights that balance epidemiological eff
 
 ### Research Leadership
 
-This is an independent research project I undertook outside of my university coursework, motivated by my interest in applying epidemiological modelling to real-world challenges in global health and health system improvement. I developed the research question, designed the modelling framework, and identified the key areas that required investigation. While I invited a few peers to support background research on specific topics I outlined, such as mucosal immunity and OPV/IPV use in low-coverage settings, the direction, structure, and development of the model were entirely led and managed by me.
+This is an independent research project I undertook outside of my university coursework, motivated by my interest in applying epidemiological modelling to real-world challenges in global health and health system improvement. I developed the research question, designed the modelling framework, and identified the key areas that required investigation. While I invited a few peers to support background research on specific topics I outlined, such as mucosal immunity and OPV/IPV use in low-coverage settings, the direction, structure, and development of the model were led and managed by me.
 
 ---
 

@@ -32,6 +32,17 @@ For these reasons, PNG offers not only a policy-critical setting for polio contr
 6. To demonstrate the transferability of biologically informed modelling frameworks to other vaccine-preventable diseases, contributing to improved vaccination planning across low- and middle-income countries.
 
 ---
+### Significance
+
+This project addresses a critical and timely gap in both global health modelling and vaccine policy evaluation by integrating detailed immunological dynamics into forward simulations of OPV and IPV strategies — something that has rarely been done in fragile health system contexts. Existing models often prioritise mathematical simplicity over biological accuracy, overlooking key processes like mucosal versus systemic immunity, waning protection, and vaccine take.
+
+My approach challenges that norm by embedding these immunological realities into a policy-relevant framework, enabling more precise assessment of outbreak risks under diverse vaccination scenarios. Using Papua New Guinea, a country facing resurging poliovirus and high cVDPV risk, as a case study grounds the work in urgent public health realities, whilst also allowing it to guide broader vaccination strategy design in other low-coverage, high-risk settings.
+
+In doing so, the project reflects core priorities in global health and health systems research: applying epidemiological insight to complex system challenges, and using rigorous, context-sensitive analysis to inform health system strengthening and evidence-based policy development.
+
+By bridging theoretical modelling with the operational realities of fragile health systems, this research offers a scalable framework for translating complex dynamics into actionable insights for advancing efforts not only toward polio eradication but also broader infectious disease control.
+
+---
 
 ## Methodology
 

@@ -1,3 +1,10 @@
+Summary at a Glance:
+- Topic: Polio vaccination modelling in fragile systems (Papua New Guinea)
+- Approach: Immunologically detailed SEIR model (mucosal vs systemic immunity, waning, seroconversion delay)
+- Platform: R (open-access code)
+- Aim: To inform equitable, real-world immunisation policy under operational constraints
+- Relevance: Global health strategy, outbreak control, health system evaluation
+
 # Immunologically Informed Modelling of Polio Vaccination Strategies to Mitigate cVDPV Risk in Papua New Guinea
 
 This project aims to develop an immunologically grounded, policy-relevant transmission model to inform vaccination strategies for poliovirus control in fragile health systems, using Papua New Guinea (PNG) as a case study. Amid resurging wild-type poliovirus and the documented emergence of circulating vaccine-derived poliovirus (cVDPV), PNG exemplifies the complex intersection of biological uncertainty and operational constraint in the endgame stage of global polio eradication. Current modelling approaches often simplify immunological processes, risking policy decisions that are mathematically sound but biologically incomplete.

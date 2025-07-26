@@ -86,12 +86,16 @@ Simulations will be written in **R** or **Python**. All code and parameter table
 
 ## References
 
-- CDC, 2014. *Progress toward poliomyelitis eradication—Papua New Guinea, 1996–2012.* MMWR, 63(17), pp.369–373.  
-- CDC, 2019. *Update on vaccine-derived poliovirus outbreaks — worldwide, July 2018–February 2019.* MMWR, 68(5), pp.225–230.  
-- Datta, S.S., Vince, J.D., Toikilik, S. and Lagani, W., 2014. *Integrated package approach in delivering interventions during immunisation campaigns in a complex environment in Papua New Guinea: a case study.* Vaccine, 32(28), pp.3551–3555. doi:10.1016/j.vaccine.2014.04.056.  
-- Informit, 2023. *Papua New Guinea: A vaccine hesitancy hotspot.* Available at: https://search.informit.org/doi/abs/10.3316/INFORMIT.759019788553702 [Accessed 26 Jul. 2025].  
-- Parliament UK, 2019. *Falling vaccination rates in developing countries.* House of Commons Briefing Paper CBP-8556. Available at: https://researchbriefings.files.parliament.uk/documents/CBP-8556/CBP-8556.pdf [Accessed 26 Jul. 2025].  
-- UNIC Pacific, 2023. *Interview with Dr. Satish Gupta: Immunisation challenges in PNG.* United Nations Pacific. Available at: https://www.un.org/pt/information-center-pacific-unic/interview-dr-satish-gupta [Accessed 26 Jul. 2025].  
-- Valentine, N., Thomas, J. and Isahak, L., 2020. *The 2018 outbreak of vaccine-derived poliovirus in Papua New Guinea.* Journal of Global Biosecurity, 2(1). doi:10.31646/gbio.64.  
-- Vince, J.D., Datta, S.S., Toikilik, S. and Lagani, W., 2014. *Integrated package approach in delivering interventions during immunisation campaigns in a complex environment in Papua New Guinea.* Vaccine, 32(28), pp.3551–3555.  
-- WHO/UNICEF, 2023. *Measles vaccination coverage: Papua New Guinea.* Available at: https://immunizationdata.who.int/global/wiise-detail-page/measles-vaccination-coverage?CODE=PNG [Accessed 26 Jul. 2025].
+- Centers for Disease Control and Prevention (CDC), 2014. Progress toward poliomyelitis eradication—Papua New Guinea, 1996–2012. MMWR. Morbidity and Mortality Weekly Report, 63(17), pp.369–373.
+- Centers for Disease Control and Prevention (CDC), 2019. Update on vaccine-derived poliovirus outbreaks — worldwide, July 2018–February 2019. MMWR. Morbidity and Mortality Weekly Report, 68(5), pp.225–230.
+- Datta, S.S., Vince, J.D., Toikilik, S. and Lagani, W., 2014. Integrated package approach in delivering interventions during immunisation campaigns in a complex environment in Papua New Guinea: a case study. Vaccine, 32(28), pp.3551–3555. https://doi.org/10.1016/j.vaccine.2014.04.056.
+- Informit, 2023. Papua New Guinea: A vaccine hesitancy hotspot. [online] Available at: https://search.informit.org/doi/abs/10.3316/INFORMIT.759019788553702 [Accessed 26 Jul. 2025].
+- Parliament UK, 2019. Falling vaccination rates in developing countries. House of Commons Briefing Paper CBP-8556. [online] Available at: https://researchbriefings.files.parliament.uk/documents/CBP-8556/CBP-8556.pdf [Accessed 26 Jul. 2025].
+- United Nations Information Centre (UNIC) Pacific, 2023. Interview with Dr. Satish Gupta: Immunisation challenges in PNG. [online] United Nations Pacific. Available at: https://www.un.org/pt/information-center-pacific-unic/interview-dr-satish-gupta [Accessed 26 Jul. 2025].
+- Valentine, N., Thomas, J. and Isahak, L., 2020. The 2018 outbreak of vaccine-derived poliovirus in Papua New Guinea. Journal of Global Biosecurity, 2(1). https://doi.org/10.31646/gbio.64.
+- Vince, J.D., Datta, S.S., Toikilik, S. and Lagani, W., 2014. Integrated package approach in delivering interventions during immunisation campaigns in a complex environment in Papua New Guinea. Vaccine, 32(28), pp.3551–3555.
+- World Health Organization (WHO)/UNICEF, 2023. Measles vaccination coverage: Papua New Guinea. [online] Available at: https://immunizationdata.who.int/global/wiise-detail-page/measles-vaccination-coverage?CODE=PNG [Accessed 26 Jul. 2025].
+
+
+
+

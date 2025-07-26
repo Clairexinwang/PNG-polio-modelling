@@ -14,7 +14,7 @@ To address this, the project integrates mucosal versus systemic immunity, waning
 
 The aim is to generate policy-relevant insights that balance epidemiological effectiveness with implementation feasibility for immunisation policy in under-resourced settings, supporting global health agencies working at the intersection of immunisation strategy, disease control, and health systems strengthening. Beyond polio, the framework offers a replicable architecture for modelling vaccination strategies against other pathogens in similarly vulnerable contexts, ensuring equity-driven public health decision-making.
 
-### About This Project
+### Research Leadership
 
 This is an independent research project I undertook outside of my university coursework, motivated by my interest in applying epidemiological modelling to real-world challenges in global health and health system improvement. I developed the research question, designed the modelling framework, and identified the key areas that required investigation. While I invited a few peers to support background research on specific topics I outlined, such as mucosal immunity and OPV/IPV use in low-coverage settings, the direction, structure, and development of the model were entirely led and managed by me.
 
@@ -44,7 +44,7 @@ For these reasons, PNG offers not only a policy-critical setting for polio contr
 6. To demonstrate the transferability of biologically informed modelling frameworks to other vaccine-preventable diseases, contributing to improved vaccination planning across low- and middle-income countries.
 
 ---
-### Significance
+### Contribution to Field
 
 This project addresses a critical and timely gap in both global health modelling and vaccine policy evaluation by integrating detailed immunological dynamics into forward simulations of OPV and IPV strategies — something that has rarely been done in fragile health system contexts. Existing models often prioritise mathematical simplicity over biological accuracy, overlooking key processes like mucosal versus systemic immunity, waning protection, and vaccine take.
 

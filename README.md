@@ -1,9 +1,10 @@
-Summary at a Glance:
-- Topic: Polio vaccination modelling in fragile systems (Papua New Guinea)
-- Approach: Immunologically detailed SEIR model (mucosal vs systemic immunity, waning, seroconversion delay)
-- Platform: R (open-access code)
-- Aim: To inform equitable, real-world immunisation policy under operational constraints
-- Relevance: Global health strategy, outbreak control, health system evaluation
+### Summary at a Glance
+
+- **Topic**: Polio vaccination modelling in fragile systems (Papua New Guinea)  
+- **Approach**: Immunologically detailed SEIR model (mucosal vs systemic immunity, waning, seroconversion delay)  
+- **Platform**: R (open-access code)  
+- **Aim**: To inform equitable, real-world immunisation policy under operational constraints  
+- **Relevance**: Global health strategy, outbreak control, health system evaluation  
 
 # Immunologically Informed Modelling of Polio Vaccination Strategies to Mitigate cVDPV Risk in Papua New Guinea
 
